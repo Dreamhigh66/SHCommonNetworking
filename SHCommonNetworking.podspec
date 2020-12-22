@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/Dreamhigh66/SHCommonNetworking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Dreamhigh66' => 'shihao.zhang@zhangmen.com' }
+  s.author           = { 'Dreamhigh66' => 'zsh199109@163.com' }
   s.source           = { :git => 'https://github.com/Dreamhigh66/SHCommonNetworking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
