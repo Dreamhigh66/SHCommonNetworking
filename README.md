@@ -22,7 +22,7 @@ pod 'SHCommonNetworking'
 
 ## Author
 
-Dreamhigh66, shihao.zhang@zhangmen.com
+Dreamhigh66, zsh199109@163.com
 
 ## License
 
